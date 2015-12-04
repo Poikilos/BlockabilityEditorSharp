@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.1.6466
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockabilityEditor", "BlockabilityEditor.csproj", "{533E5538-ABAB-4C66-B1B9-2A740532B128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533E5538-ABAB-4C66-B1B9-2A740532B128}.Debug|x86.Build.0 = Debug|x86
+		{533E5538-ABAB-4C66-B1B9-2A740532B128}.Debug|x86.ActiveCfg = Debug|x86
+		{533E5538-ABAB-4C66-B1B9-2A740532B128}.Release|x86.Build.0 = Release|x86
+		{533E5538-ABAB-4C66-B1B9-2A740532B128}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
